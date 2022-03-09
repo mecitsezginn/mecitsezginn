@@ -35,7 +35,7 @@ I’m interested in React, React Native, and Tensorflow. I work on projects incl
 
 
 <div align="left"> 
-<img style="margin: 10px" src="https://e7.pngegg.com/pngimages/170/924/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-thumbnail.png" alt="SQL" height="40" /> 
+<img style="margin: 10px" src="https://cdn1.vectorstock.com/i/1000x1000/77/30/sql-database-icon-logo-design-ui-or-ux-app-vector-17507730.jpg" alt="SQL" height="40" /> 
 </div> 
 <br />
 
