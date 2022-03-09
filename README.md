@@ -35,6 +35,12 @@ I’m interested in React, React Native, and Tensorflow. I work on projects incl
 
 
 <div align="left"> 
+<img style="margin: 10px" src="https://e7.pngegg.com/pngimages/170/924/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-thumbnail.png" alt="SQL" height="40" /> 
+</div> 
+<br />
+
+
+<div align="left"> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="40" /> 
 <img style="margin: 10px" src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png?fm=webp" alt="Firebase" height="40" /> 
 </div> 
